@@ -1,7 +1,7 @@
 #!/bin/bash
 
-ID="1212173181"
-TOKEN="7602445779:AAH284dr9dXPbGFUm-pUsS0B9ZAiA0HMWFw"
+ID="pupupu"
+TOKEN="pupupu"
 
 
 if [[ "$CI_JOB_STAGE" == "build" ]]      
